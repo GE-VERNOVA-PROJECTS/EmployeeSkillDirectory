@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+
+<employees>
+    <employee id="1">
+        <name>John Doe</name>
+        <email>john@example.com</email>
+        <department>Engineering</department>
+        <role>Senior Developer</role>
+        <skills>
+            <skill>JavaScript</skill>
+            <skill>React</skill>
+            <skill>Node.js</skill>
+        </skills>
+        <experience>5</experience>
+    </employee>
+
+    <employee id="2">
+        <name>Maria Garcia</name>
+        <email>maria@example.com</email>
+        <department>Marketing</department>
+        <role>SEO Specialist</role>
+        <skills>
+            <skill>SEO</skill>
+            <skill>Content Writing</skill>
+        </skills>
+        <experience>4</experience>
+    </employee>
+
+    <employee id="3">
+        <name>Rahul Sharma</name>
+        <email>rahul@example.com</email>
+        <department>Engineering</department>
+        <role>Backend Developer</role>
+        <skills>
+            <skill>Java</skill>
+            <skill>Spring Boot</skill>
+            <skill>SQL</skill>
+        </skills>
+        <experience>6</experience>
+    </employee>
+</employees>
